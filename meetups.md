@@ -20,6 +20,8 @@ Amongst the many Tech meetups happening in Australia some regular ones are liste
 
 ## S - U
 
+[Sydney PHP](https://www.meetup.com/SydPHP/) | Sydney, NSW | Every last Thrusday of the month
+
 ## V - X
 
 ## Y - \#
