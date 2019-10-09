@@ -6,6 +6,8 @@ Below is an alphabetically sorted list of Tech conferences that take place in Au
 
 ## A - C
 
+[Container Camp](https://2019.container.camp/au/) | Sydney NSW | Explore container technology with world leading experts
+
 ## D - F
 
 [DDD Sydney](https://www.dddsydney.com.au/) | Sydney, NSW | DDD Sydney is an inclusive non-profit conference for the Developer, Data and Design community.
