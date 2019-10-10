@@ -23,6 +23,7 @@ Amongst the many Tech meetups happening in Australia some regular ones are liste
 ## S - U
 
 [Sydney PHP](https://www.meetup.com/SydPHP/) | Sydney, NSW | Every last Thrusday of the month
+[Sydney Serverless](https://www.meetup.com/Sydney-Serverless-Meetup-Group/) | Sydney, NSW | Generally 3rd Wednesday of the month, sometimes on Thursday + random days :)
 
 ## V - X
 
