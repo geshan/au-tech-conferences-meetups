@@ -6,11 +6,11 @@ Below is an alphabetically sorted list of Tech conferences that take place in Au
 
 ## A - C
 
-[Container Camp](https://2019.container.camp/au/) | Sydney NSW | Explore container technology with world leading experts
+* [Container Camp](https://2019.container.camp/au/) | Sydney NSW | Explore container technology with world leading experts
 
 ## D - F
 
-[DDD Sydney](https://www.dddsydney.com.au/) | Sydney, NSW | DDD Sydney is an inclusive non-profit conference for the Developer, Data and Design community.
+* [DDD Sydney](https://www.dddsydney.com.au/) | Sydney, NSW | DDD Sydney is an inclusive non-profit conference for the Developer, Data and Design community.
 
 ## G - I
 
@@ -22,9 +22,8 @@ Below is an alphabetically sorted list of Tech conferences that take place in Au
 
 ## S - U
 
-[ServerlessDays Melbourne](https://www.serverlessdays.me) | Melbourne, VIC | A community based conference focusing on Serverless based platforms and technologies.
-
-[ServerlessDays Sydney](https://sydney.serverlessdays.io/) | Sydney, NSW | ServerlessDays Sydney brings us a broad array of speakers and topics. The Serverless developer and engineer skillset needs to be wider than ever.
+* [ServerlessDays Melbourne](https://www.serverlessdays.me) | Melbourne, VIC | A community based conference focusing on Serverless based platforms and technologies.
+* [ServerlessDays Sydney](https://sydney.serverlessdays.io/) | Sydney, NSW | ServerlessDays Sydney brings us a broad array of speakers and topics. The Serverless developer and engineer skillset needs to be wider than ever.
 
 ## V - X
 

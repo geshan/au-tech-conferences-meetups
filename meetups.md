@@ -8,7 +8,7 @@ Amongst the many Tech meetups happening in Australia some regular ones are liste
 
 ## D - F
 
-[Fenders Perth](https://www.meetup.com/Front-End-Web-Developers-Perth/) | Perth, WA | Date and frequency of event changes
+* [Fenders Perth](https://www.meetup.com/Front-End-Web-Developers-Perth/) | Perth, WA | Date and frequency of event changes
 
 ## G - I
 
@@ -16,14 +16,14 @@ Amongst the many Tech meetups happening in Australia some regular ones are liste
 
 ## M - O
 
-[Node Sydney](https://www.meetup.com/node-sydney/) | Sydney, NSW | Every first Thursday of the month
+* [Node Sydney](https://www.meetup.com/node-sydney/) | Sydney, NSW | Every first Thursday of the month
 
 ## P - R
 
 ## S - U
 
-[Sydney PHP](https://www.meetup.com/SydPHP/) | Sydney, NSW | Every last Thrusday of the month
-[Sydney Serverless](https://www.meetup.com/Sydney-Serverless-Meetup-Group/) | Sydney, NSW | Generally 3rd Wednesday of the month, sometimes on Thursday + random days :)
+* [Sydney PHP](https://www.meetup.com/SydPHP/) | Sydney, NSW | Every last Thrusday of the month
+* [Sydney Serverless](https://www.meetup.com/Sydney-Serverless-Meetup-Group/) | Sydney, NSW | Generally 3rd Wednesday of the month, sometimes on Thursday + random days :)
 
 ## V - X
 
