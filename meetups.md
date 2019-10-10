@@ -8,7 +8,7 @@ Amongst the many Tech meetups happening in Australia some regular ones are liste
 
 ## D - F
 
-[Fenders Perth](https://www.meetup.com/Front-End-Web-Developers-Perth/) | Perth, WA | Date changes
+[Fenders Perth](https://www.meetup.com/Front-End-Web-Developers-Perth/) | Perth, WA | Date and frequency of event changes
 
 ## G - I
 
