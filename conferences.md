@@ -28,6 +28,8 @@ Below is an alphabetically sorted list of Tech conferences that take place in Au
 * [ServerlessDays Sydney](https://sydney.serverlessdays.io/) | Sydney NSW | ServerlessDays Sydney brings us a broad array of speakers and topics. The Serverless developer and engineer skillset needs to be wider than ever. | Aug
 
 ## V - X
+* [WordCamp Sydney 2019](https://2019.sydney.wordcamp.org/) | UTS Sydney NSW | WordCamp Sydney is a volunteer-run and not-for-profit conference for designers, developers, marketers, business owners, and everyone in between that use WordPress or even any website. | Nov
+
 
 ## Y - \#
 
