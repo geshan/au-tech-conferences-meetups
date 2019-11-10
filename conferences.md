@@ -16,10 +16,13 @@ Below is an alphabetically sorted list of Tech conferences that take place in Au
 
 ## J - L
 
+* [Laracon AU](https://laracon.com.au/) | Sydney NSQ | Two amazing days of learning, growing, and mingling with the Laravel community. Official Laravel Conference in Australia | Oct/Nov
+
 ## M - O
 
 ## P - R
 * [PyCon Au](https://pycon-au.org) | Sydney NSW, Hobart TAS, Brisbane QLD, Melbourne VIC | PyCon AU is the national Python programming language conference. | Aug
+* [RubyConf Au](https://www.rubyconf.org.au) | Sydney NSW, Melbourne VIC, Gold Coast, QLD | A conference to share Ruby knowledge amongst like-minded Rubyists | Feb
 
 
 ## S - U
