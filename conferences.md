@@ -21,8 +21,8 @@ Below is an alphabetically sorted list of Tech conferences that take place in Au
 ## M - O
 
 ## P - R
-* [PyCon Au](https://pycon-au.org) | Sydney NSW, Hobart TAS, Brisbane QLD, Melbourne VIC | PyCon AU is the national Python programming language conference. | Aug
-* [RubyConf Au](https://www.rubyconf.org.au) | Sydney NSW, Melbourne VIC, Gold Coast, QLD | A conference to share Ruby knowledge amongst like-minded Rubyists | Feb
+* [PyCon AU](https://pycon-au.org) | Sydney NSW, Hobart TAS, Brisbane QLD, Melbourne VIC | PyCon AU is the national Python programming language conference. | Aug
+* [RubyConf AU](https://www.rubyconf.org.au) | Sydney NSW, Melbourne VIC, Gold Coast, QLD | A conference to share Ruby knowledge amongst like-minded Rubyists | Feb
 
 
 ## S - U
@@ -35,6 +35,7 @@ Below is an alphabetically sorted list of Tech conferences that take place in Au
 
 
 ## Y - \#
+* [YOW Sydney](https://yowconference.com/sydney/) | Sydney NSW | Leading software industry experts from all over the world, handpicked by our program committee, come together for two days to provide amazing networking and learning opportunities. | Dec
 
 ## Inspired from
 
