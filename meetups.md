@@ -14,6 +14,8 @@ Amongst the many Tech meetups happening in Australia some regular ones are liste
 
 ## J - L
 
+* [JavaTalks | Java Meetup Sydney](https://www.meetup.com/Java-Meetup-Sydney) | Sydney NSW
+
 ## M - O
 
 * [Node Sydney](https://www.meetup.com/node-sydney/) | Sydney NSW | Node, Javascript | Every first Thursday of the month
@@ -22,7 +24,9 @@ Amongst the many Tech meetups happening in Australia some regular ones are liste
 
 ## S - U
 
+* [SyDjango](https://www.meetup.com/SyDjango/) | Sydney NSW | Python, Django
 * [Sydney PHP](https://www.meetup.com/SydPHP/) | Sydney NSW | PHP | Every last Thrusday of the month
+* [Sydney Python(SyPy)](https://www.meetup.com/sydneypython/) | Sydney NSW | Every last thursday of the month
 * [Sydney Serverless](https://www.meetup.com/Sydney-Serverless-Meetup-Group/) | Sydney NSW | Serverless | Generally 3rd Wednesday of the month, sometimes on Thursday + random days :)
 
 ## V - X
